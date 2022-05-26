@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhumikasingh21
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS, JavaScript
+- 🌱 I’m currently learning HTML,CSS, JavaScript, ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... bhumikas186@gmail.com
 
